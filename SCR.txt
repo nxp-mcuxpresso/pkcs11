@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package: pkcs11
+Version: 2.40.1
+Outgoing License: BSD-3-Clause
+License File: LICENSE.md
+Type of Content: source code, header files
+Description and comments: Public Key Cryptography Standard #11 defines generic cryptographic token interface.
+Release Location: https://github.com/nxp-mcuxpresso/pkcs11
+Origin:
+      NXP (BSD-3-Clause)
+      OASIS TC, Amazon (MIT) - https://github.com/amazon-freertos/pkcs11

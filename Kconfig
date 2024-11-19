@@ -1,0 +1,11 @@
+#
+# Copyright 2024 NXP
+#
+# SPDX-License-Identifier: BSD-3-Clause
+#
+
+menuconfig MCUX_COMPONENT_middleware.pkcs11
+    bool "pkcs11"
+    default n
+    help
+        Public Key Cryptography Standard #11 defines generic cryptographic token interface
